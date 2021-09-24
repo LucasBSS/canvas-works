@@ -12,6 +12,10 @@ desenhando formas geométricas não padrao, usando o conceito base de mesh(malha
 ![Mesh demo](./res/mesh_demo.gif)
 <br>
 
+### /Collider
+selelecionando formas geométricas por meio de teste de colisão. 
+![Collider demo](./res/collide_demo.gif)
+
 ### /Mouse 
 movendo personagem 2d, desenhando imagens no canvas, implementando 'follow click' (seguir o clique), 
 implementando 'look at' (olhar para), ou seja rotacionar imagen na direção do clique. 
